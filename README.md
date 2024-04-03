@@ -14,3 +14,9 @@ Data Visualization: Use Matplotlib or other visualization libraries to create hi
 Sample data
 
 ![Data Set Image](https://github.com/Pintu1802/Student_Result_Analysis/assets/126938670/0c606e1b-99a4-4ba6-beb3-e099e9279e1d)
+
+
+Home Page
+
+![degree comparison](https://github.com/Pintu1802/Student_Result_Analysis/assets/126938670/11b32ad4-4e58-4a52-836a-82d964de590c)
+

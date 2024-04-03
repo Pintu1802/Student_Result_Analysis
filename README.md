@@ -9,3 +9,8 @@ Collecting Data: First, collect the student scores. You can either input them ma
 Data Analysis: Use Pandas to analyze the data. Calculate basic statistics like mean, median, mode, and standard deviation to understand the distribution of scores.
 
 Data Visualization: Use Matplotlib or other visualization libraries to create histograms, box plots, or scatter plots to visualize the distribution of scores and identify any patterns or outliers.
+
+
+Sample data
+
+![Data Set Image](https://github.com/Pintu1802/Student_Result_Analysis/assets/126938670/0c606e1b-99a4-4ba6-beb3-e099e9279e1d)
